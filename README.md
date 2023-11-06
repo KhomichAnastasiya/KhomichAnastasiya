@@ -9,7 +9,7 @@
 
 Мои контактные данные:
 
-Telegram: @KhomichAnastasiya
+Telegram: @AnastasiyaKhomich
 
 homich.anastasia@yandex.ru
 
