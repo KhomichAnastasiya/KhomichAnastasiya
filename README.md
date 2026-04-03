@@ -1,15 +1,20 @@
-# Привет! Меня зовут Анастасия, я разработчик Python/C++
+# Anastasiya Khomich
+# Python / C++ Developer
 
-В работе использую MS Visual Studio, PyCharm, Qt5, STL, CMake
+Hi! I'm Anastasiya, a developer with experience building cross-platform applications using C++ and Python.
 
-В основном занимаюсь разработкой Desktop приложений
+### Tech Stack
+C++ (STL, Qt5), Python (FastAPI, exploring microservices architecture).
 
-Интересно работать над прикладными проектами, которые будут приносить пользу людям и делать жизнь лучше.
+### About Me
+I contributed to the development of a communication session planning system: designed architecture, implemented telemetry processing, worked with databases, and created user interfaces.
 
-Мои контактные данные:
+I enjoy designing algorithms, tackling complex problems, and building systems that are both reliable and user-friendly.
 
+Currently, I'm actively exploring modern web technologies (FastAPI, microservices) to expand my skill set and the range of problems I can solve
+
+### Contact
 Telegram: @AnastasiyaKhomich
-
-homich.anastasia@yandex.ru
+Email: homich.anastasia@yandex.ru
 
 
