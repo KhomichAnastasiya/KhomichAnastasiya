@@ -16,4 +16,5 @@ Currently, I'm actively exploring modern web technologies (FastAPI, microservice
 Telegram: @AnastasiyaKhomich  
 Email: homich.anastasia@yandex.ru  
 
-
+### GitHub Activity
+[![GitHub Activity Graph](https://contribution-graph-ohi6.onrender.com/api/graph?username=AnastasiyaKhomich)](https://github.com/AnastasiyaKhomich)
