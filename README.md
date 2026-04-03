@@ -1,5 +1,4 @@
-# Anastasiya Khomich
-# Python / C++ Developer
+# Anastasiya Khomich (Python / C++ Developer)
 
 Hi! I'm Anastasiya, a developer with experience building cross-platform applications using C++ and Python.
 
@@ -14,7 +13,7 @@ I enjoy designing algorithms, tackling complex problems, and building systems th
 Currently, I'm actively exploring modern web technologies (FastAPI, microservices) to expand my skill set and the range of problems I can solve
 
 ### Contact
-Telegram: @AnastasiyaKhomich
-Email: homich.anastasia@yandex.ru
+Telegram: @AnastasiyaKhomich  
+Email: homich.anastasia@yandex.ru  
 
 
